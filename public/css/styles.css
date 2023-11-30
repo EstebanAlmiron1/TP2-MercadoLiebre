@@ -198,7 +198,7 @@ article:hover .descripciones{
 
 .tarjeta i{
     font-size: 2em;
-    margin: 10px;
+    margin-bottom: 10px;
     color: var(--celeste);
 }
 
@@ -210,7 +210,7 @@ article:hover .descripciones{
 
 .envio i{
     font-size: 2em;
-    margin: 10px;
+    margin-bottom: 10px;
     color: var(--celeste);
 }
 
@@ -222,7 +222,7 @@ article:hover .descripciones{
 
 .seguridad i{
     font-size: 2em;
-    margin: 10px;
+    margin-bottom: 10px;
     color: var(--celeste);
 }
 
@@ -306,6 +306,10 @@ article:hover .descripciones{
 
     .main-footer section{
         width: 30%;
+    }
+
+    .tarjeta{
+        padding-top: 15px;
     }
 
     .copy{
