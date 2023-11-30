@@ -58,6 +58,7 @@ body{
 
 .icono-buscador{
     background-color: #FFF;
+    border: none;
     border-left: 1px solid var(--gris-oscuro);
     color: var(--gris-oscuro);
     font-weight: bold;
